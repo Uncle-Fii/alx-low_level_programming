@@ -2,8 +2,12 @@
 
 1-alphabet.c file is a C program that prints the alphabet, in lowercase, followed by a new line. Prototype: void print_alphabet(void);
 
-2-print_alphabet_x10.c is a C program that prints 10 times the alphabet, in lowercase, followed by a new line. Prototype: void print_alphabet_x10(void);
+2-print_alphabet_x10.c file is a C program that prints 10 times the alphabet, in lowercase, followed by a new line. Prototype: void print_alphabet_x10(void);
 
-3-islower.c is a C program that writes a function that checks for lowercase character. Prototype: int _islower(int c); Returns 1 if c is lowercase. Returns 0 otherwise
+3-islower.c file is a C program that writes a function that checks for lowercase character. Prototype: int _islower(int c); Returns 1 if c is lowercase. Returns 0 otherwise
+
+4-isalpha.c file is a C program Write a function that checks for alphabetic character. Prototype: int _isalpha(int c); Returns 1 if c is a letter, lowercase or uppercase. Returns 0 otherwise
+
+
 
 
