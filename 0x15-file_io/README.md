@@ -10,4 +10,4 @@ This directory contains functions that do the following
 
 100-elf_header.c displays the information contained in the ELF header at the start of an ELF file.
 
-holberton.h contains all function prototypes.
+main.h contains all function prototypes.
