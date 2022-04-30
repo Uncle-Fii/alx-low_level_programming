@@ -2,7 +2,7 @@
 
 /**
  * read_textfile - reads a text file and prints it to standard output
- * @filename: file descriptor
+ * @filename: file descripter
  * @letters: count
  *
  * Return: any time size_t
