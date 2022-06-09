@@ -19,3 +19,7 @@ file 8-delete_dnodeint.c is a C function that deletes the node at index index of
 file 100-password is a file that contains a password for a compiled python program
 
 file 102-result is a file that contains the biggest palindrome number made from the product of two 3-digit numbers
+
+file 103-keygen.c writes a keygen for crackme5
+
+file lists.h is a header file that contains all prototypes for this project and definition of struct
