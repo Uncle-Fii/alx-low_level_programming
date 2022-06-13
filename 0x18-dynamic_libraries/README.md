@@ -8,4 +8,3 @@ file 100-operations.so is a C dynamic library that contains C functions that can
 
 file 101-make_me_win.sh is a Bash script to inject the libmask.so library, using LD_PRELOAD, in the giga million program
 
-file libmask.so is a C dynamic library to inject in a giga million program
